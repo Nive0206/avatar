@@ -1,0 +1,33 @@
+.payment-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .order-summary img {
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .payment-method label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .pay-btn {
+    background-color: #ff9f00;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .pay-btn:hover {
+    background-color: #f57c00;
+  }
+  
